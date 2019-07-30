@@ -1,8 +1,10 @@
-Jeffrey Adams
-123 Rue de Fourmann
-France, CA 95112
+Name:       Jeffrey Adams
+Address:    123 Rue de Fourmann
+            France, CA 95112
 
-France: 33 51 03 66 41 17
+Spouse:     Benjamin Fourmann
+Birthday:   08/08/1975
 
-
-USA:    1 510 366 4117
+Phone
+France:     33 51 03 66 41 17
+USA:        1 510 366 4117
